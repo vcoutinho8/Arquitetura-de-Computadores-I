@@ -1,0 +1,15 @@
+# Projeto ULA – Arquitetura de Computadores (CC4N)
+
+Projeto desenvolvido para a disciplina **Arquitetura de Computadores (CC4N)**, consistindo na implementação de uma **ULA (Unidade Lógica e Aritmética)** utilizando o **Logisim**.
+
+## Funcionalidades
+- Operações aritméticas básicas
+- Operações lógicas
+- Controle de operações por sinais
+- Entradas e saídas em binário
+
+## Ferramentas
+- Logisim / Logisim Evolution
+
+## Objetivo
+Demonstrar o funcionamento de uma ULA e reforçar os conceitos fundamentais de arquitetura de computadores.
