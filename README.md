@@ -16,3 +16,4 @@ O objetivo é documentar e versionar todo o processo de construção, desde os b
 Cada pasta ou arquivo representa um componente específico do processador (ex: ULA, Registradores, Unidade de Controle). A organização segue a ordem de evolução do hardware.
 
 ---
+<img width="1291" height="595" alt="image" src="https://github.com/user-attachments/assets/36ef6a81-1dad-4a29-b89b-e5b6bae924cf" />
