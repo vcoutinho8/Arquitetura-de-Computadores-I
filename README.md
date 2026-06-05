@@ -17,3 +17,5 @@ Cada pasta ou arquivo representa um componente específico do processador (ex: U
 
 ---
 <img width="1291" height="595" alt="image" src="https://github.com/user-attachments/assets/36ef6a81-1dad-4a29-b89b-e5b6bae924cf" />
+
+[MPU_RISC_4BITS.pdf](https://github.com/user-attachments/files/28653362/MPU_RISC_4BITS.pdf)
